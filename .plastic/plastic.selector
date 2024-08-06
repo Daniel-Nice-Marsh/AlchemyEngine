@@ -1,0 +1,4 @@
+repository "new-repository@marsh_daniel@cloud"
+  path "/"
+    br "/main"
+    co "/main"
